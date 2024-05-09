@@ -1,8 +1,5 @@
 # FilmFinder
 
-Certainly! Here's a revised version for the "About" section of your Film Finder:
-
----
 
 **Welcome to Film Finder**
 
@@ -28,6 +25,3 @@ Discover your next favorite film with Film Finder! Our platform employs sophisti
 
 Enter the title of your favorite movie above and embark on a cinematic adventure with Film Finder!
 
----
-
-Feel free to adjust the wording or add any additional information to better suit the branding and purpose of your Film Finder platform!
